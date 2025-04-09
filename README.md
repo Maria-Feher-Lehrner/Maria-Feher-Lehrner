@@ -46,6 +46,6 @@
 
 ###
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maria-feher-lehrner)](https://github.com/maria-feher-lehrner/github-readme-stats)
+[![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=maria-feher-lehrner&show_icons=true)](https://github.com/maria-feher-lehrner/github-readme-stats)
 
 ###
