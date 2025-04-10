@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently brushing up my IT security knowledge to attain the ISC2 CC certificate.<br>🎯 Goals: Getting started in the industry and having my first "I won't be doing THAT again". Hopefully not on a Friday afternoon...<br>🦩 Fun fact: Full stack is nice and all but let's be honest: backend development is the real deal.</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently brushing up on my IT security knowledge to attain the ISC2 CC certificate.<br>🎯 Goals: Getting started in the industry and having my first "I won't be doing THAT again". Hopefully not on a Friday afternoon...<br>🦩 Fun fact: Full stack is nice and all but let's be honest: backend development is the real deal.</p>
 
 ###
 
