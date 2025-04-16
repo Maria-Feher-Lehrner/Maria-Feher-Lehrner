@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Maria Feher-Lehrner and I was a project manager until recently. Then I fell in love with the magic of coding...<br>I came into close contact with software development aspects at my last job as project manager for research projects in the realm of sustainability communications. <br>I took the opportunity to take educational leave and graduate two advanced certificate programs at the University of Applied Sciences in Vienna. Which now makes me a fledgling full stack web- and app developer.</p>
+<p align="left">My name is Maria Feher-Lehrner, and I was a project manager until recently. Then I fell in love with the magic of coding...<br>I came into close contact with software development during my last job, managing research projects in the field of sustainability communications. <br>I was then able to take the opportunity to go on educational leave and completed two advanced certificate programs at the University of Applied Sciences in Vienna — which now makes me a fledgling <strong>full stack web- and app developer</strong>.🐣</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently brushing up on my IT security knowledge to attain the ISC2 CC certificate.<br>🎯 Goals: Getting started in the industry and having my first "I won't be doing THAT again". Hopefully not on a Friday afternoon...<br>🦩 Fun fact: Full stack is nice and all but let's be honest: backend development is the real deal.</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently brushing up on my IT security knowledge to attain the ISC2 CC certificate.<br>🎯 Goals: Getting started in the industry and having my first "I won't be making THAT mistake again". Hopefully not on a Friday afternoon...<br>🦩 Fun fact: Full stack is nice and all but let's be honest: backend development is the real deal.</p>
 
 ###
 
